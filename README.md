@@ -35,7 +35,7 @@ npm run dev <br>
 UI设计图：https://mastergo.com/community/resource/224?from=card
 
 ## 交流
-
+wx扫
 [![pC7Ea3q.jpg](https://s1.ax1x.com/2023/07/19/pC7Ea3q.jpg)](https://imgse.com/i/pC7Ea3q)
 
 ```
