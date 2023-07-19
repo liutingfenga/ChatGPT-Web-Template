@@ -1,0 +1,6 @@
+@import './base.css';
+
+#app {
+    font-family: Inter;
+    background-color: #FDFDFD;
+}
