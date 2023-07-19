@@ -2,6 +2,12 @@
 ChatGPT-Web | AI网站的前端网页模板，可以随意商用二开。 <br>
 Vue3、Arco Design
 
+
+## 预览
+
+[![pC7V9aQ.png](https://s1.ax1x.com/2023/07/19/pC7V9aQ.png)](https://imgse.com/i/pC7V9aQ)
+
+
 ## 使用
 
 git clone https://github.com/liutingfenga/ChatGPT-Web-Template.git <br>
