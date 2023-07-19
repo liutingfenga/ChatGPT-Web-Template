@@ -4,9 +4,9 @@ Vue3、Arco Design
 
 ## 使用
 
-git clone https://github.com/liutingfenga/ChatGPT-Web-Template.git
-npm i
-npm run dev
+git clone https://github.com/liutingfenga/ChatGPT-Web-Template.git <br>
+npm i <br>
+npm run dev <br>
 
 
 ## 维护者
