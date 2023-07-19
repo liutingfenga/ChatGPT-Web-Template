@@ -19,13 +19,13 @@ npm run dev <br>
 
 ### 贡献者
 
-感谢以下参与项目的人：
+感谢以下参与项目的人： <br>
 [@liutingfenga](https://github.com/liutingfenga)
 
 ## 许可证
 
-知识共享-4.0协议
-[MIT](LICENSE) ©liutingfenga
+知识共享-4.0协议 <br>
+[MIT](LICENSE) ©liutingfenga <br>
 UI设计图：https://mastergo.com/community/resource/224?from=card
 
 ## 交流
