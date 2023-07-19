@@ -1,5 +1,5 @@
 # ChatGPT-Web-Template
-ChatGPT-Web | AI网站的前端网页模板，可以随意商用二开。
+ChatGPT-Web | AI网站的前端网页模板，可以随意商用二开。 <br>
 Vue3、Arco Design
 
 ## 使用
