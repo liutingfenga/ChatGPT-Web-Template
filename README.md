@@ -11,14 +11,15 @@ UI图来源：UI设计图：https://mastergo.com/community/resource/224?from=car
 
 
 ## 开发计划
-<button onclick="alert('Button was clicked!')" style="padding: 5px 10px; background-color: #e7e7e7; border: none; border-radius: 5px; cursor: pointer;">未完成</button>
+`GPT3.5对话
+`KIMI对话
 
 ## 本地部署
 
-git clone https://github.com/liutingfenga/ChatGPT-Web-Template.git
-npm install
-npm run dev
-npm run build
+git clone https://github.com/liutingfenga/ChatGPT-Web-Template.git <br/>
+npm install<br/>
+npm run dev<br/>
+npm run build<br/>
 
 
 
