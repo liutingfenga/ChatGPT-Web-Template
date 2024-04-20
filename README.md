@@ -7,32 +7,26 @@ Vue3、Arco Design
 
 [![pC7V9aQ.png](https://s1.ax1x.com/2023/07/19/pC7V9aQ.png)](https://imgse.com/i/pC7V9aQ)
 
-
-## 使用
-
-git clone https://github.com/liutingfenga/ChatGPT-Web-Template.git <br>
-npm i <br>
-npm run dev <br>
+UI图来源：UI设计图：https://mastergo.com/community/resource/224?from=card
 
 
-## 维护者
+## 开发计划
+<button onclick="alert('Button was clicked!')" style="padding: 5px 10px; background-color: #e7e7e7; border: none; border-radius: 5px; cursor: pointer;">未完成</button>
 
-[@liutingfenga](https://github.com/liutingfenga)
+## 本地部署
 
-## 如何贡献
+git clone https://github.com/liutingfenga/ChatGPT-Web-Template.git
+npm install
+npm run dev
+npm run build
 
-非常欢迎你的加入或者提交一个 Pull Request。
 
-### 贡献者
-
-感谢以下参与项目的人： <br>
-[@liutingfenga](https://github.com/liutingfenga)
 
 ## 许可证
 
 知识共享-4.0协议 <br>
 [MIT](LICENSE) ©liutingfenga <br>
-UI设计图：https://mastergo.com/community/resource/224?from=card
+
 
 ## 交流
 wx扫
