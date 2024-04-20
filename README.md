@@ -7,13 +7,12 @@ Vue3、Arco Design
 
 [![pC7V9aQ.png](https://s1.ax1x.com/2023/07/19/pC7V9aQ.png)](https://imgse.com/i/pC7V9aQ)
 
-UI图来源：UI设计图：https://mastergo.com/community/resource/224?from=card
+UI来源：https://mastergo.com/community/resource/224?from=card [版权信息：「知识共享 - 署名 4.0」]
 
 
 ## 开发计划
-`GPT3.5对话 [未开发]
-
-`KIMI对话 [未开发]
+- [ ] GPT3.5对话
+- [ ] KIMI对话
 
 ## 本地部署
 
