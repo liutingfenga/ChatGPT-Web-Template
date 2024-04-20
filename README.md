@@ -11,8 +11,9 @@ UI图来源：UI设计图：https://mastergo.com/community/resource/224?from=car
 
 
 ## 开发计划
-`GPT3.5对话
-`KIMI对话
+`GPT3.5对话 [未开发]
+
+`KIMI对话 [未开发]
 
 ## 本地部署
 
